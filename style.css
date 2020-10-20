@@ -1,0 +1,16 @@
+a:link {
+  color: rgb(255, 255, 255)
+}
+a:visited {
+  color: rgb(233, 32, 32);
+  font-weight:bold; 
+}
+a:hover {
+  color: rgb(0, 0, 0)
+}
+a.current {
+  color: rgb(141, 139, 140)
+}
+a:active {
+  color: rgb(143, 0, 0)
+}
